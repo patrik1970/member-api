@@ -1,0 +1,12 @@
+[
+  {id: 1, name: 'Peter Andersson', mobil: 0703871256, email: 'peter.andersson@denstore.com'},
+  {id: 2, name: 'Stina Stigberg', mobil: 0708723541, email: 'stina.stigberg@hotmail.com'},
+  {id: 3, name: 'Stefan Pettersson', mobil: 0707329417, email: 'stefan.pettersson@storel.com'},
+  {id: 4, name: 'Sofia Larsson', mobil: 0702951864, email: 'sofia.larsson@volvo.com'},
+  {id: 5, name: 'Olle Pedersen', mobil: 0708261593, email: 'olle.pedersen@citygross.com'},
+  {id: 6, name: 'Berit Eriksson', mobil: 0706725193, email: 'berit.eriksson@telia.com'},
+  {id: 7, name: 'Rut Dahlström', mobil: 0702971643, email: 'rut.dahlstrom@storytel.com'},
+  {id: 8, name: 'Mats Svensson', mobil: 0702849175, email: 'mats.svensson@skanska.com'},
+  {id: 9, name: 'Mia Karlsson', mobil: 0703816492, email: 'mia.karlsson@byggmax.com'},
+  {id: 10, name: 'Sven Ohlsson', mobil: 0705927153, email: 'sven.ohlsson@regionskane.com'}
+]
