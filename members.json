@@ -1,5 +1,5 @@
 [
-  {id: 1, name: 'Peter Andersson', mobil: 0703871256, email: 'peter.andersson@denstore.com'},
+  {"id": 1, "name": "Peter Andersson", "mobil": "0703871256", "email": "peter.andersson@denstore.com"},
   {id: 2, name: 'Stina Stigberg', mobil: 0708723541, email: 'stina.stigberg@hotmail.com'},
   {id: 3, name: 'Stefan Pettersson', mobil: 0707329417, email: 'stefan.pettersson@storel.com'},
   {id: 4, name: 'Sofia Larsson', mobil: 0702951864, email: 'sofia.larsson@volvo.com'},
